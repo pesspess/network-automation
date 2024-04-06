@@ -1,4 +1,5 @@
 import matplotlib.pyplot as plt
+from pathlib import Path
 import numpy as np
 
 x = np.linspace(0, 20, 100) # create a list of evenly-space numbers over the range
